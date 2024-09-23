@@ -42,4 +42,4 @@ client.once('ready', async () => {
     console.log('discord.gg/wicks');
 });
 
-client.login(config.TOKEN);
+client.login(MTI4NzE2NDMyNjU4Njc0NDk4Mg.G_IWqU.qiZqIe_Ypa_MPU_gx-zxXZm5PfHyh71mhGuUnM);
